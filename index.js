@@ -13,4 +13,4 @@ const client = function(scheme) {
   };
 };
 
-exports.xcall = client;
+module.exports = client;
