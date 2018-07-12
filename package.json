@@ -1,0 +1,19 @@
+{
+  "name": "xcall",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promised-exec": "^1.0.1",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
