@@ -1,4 +1,4 @@
-const xcall = require('../xcall');
+const xcall = require('../index');
 const bearUrl = 'bear://x-callback-url';
 
 var assert = require('assert');
